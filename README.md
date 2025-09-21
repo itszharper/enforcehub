@@ -1,2 +1,0 @@
-# enforcehub
-EnforceHub Script | BETA
